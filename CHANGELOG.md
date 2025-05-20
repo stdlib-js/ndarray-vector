@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-19)
+## Unreleased (2025-05-20)
 
 <section class="features">
 
@@ -34,6 +34,8 @@
 
 <details>
 
+-   [`89d9dc3`](https://github.com/stdlib-js/stdlib/commit/89d9dc316985aa3c194222afbf8146e58ff6d761) - **docs:** update namespace table of contents [(#7046)](https://github.com/stdlib-js/stdlib/pull/7046) _(by stdlib-bot)_
+-   [`a8d1b40`](https://github.com/stdlib-js/stdlib/commit/a8d1b40510aee43e3ce0e6e663ee79f149429390) - **test:** fix require path _(by Athan Reines)_
 -   [`1ab9f58`](https://github.com/stdlib-js/stdlib/commit/1ab9f58bcd109f19afd9ab08212d69bfe9d32bbe) - **feat:** add `ndarray/vector` namespace _(by Athan Reines)_
 -   [`c08c18d`](https://github.com/stdlib-js/stdlib/commit/c08c18d74faca63932755275c9f9bc08742f1fe6) - **feat:** add `ndarray/vector/bool` _(by Athan Reines)_
 -   [`34aa089`](https://github.com/stdlib-js/stdlib/commit/34aa08963d038cffbee304f6142f10dadfbf3d74) - **feat:** add `ndarray/vector/uint8c` _(by Athan Reines)_
