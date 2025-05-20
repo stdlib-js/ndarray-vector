@@ -45,20 +45,32 @@ limitations under the License.
 
 <!-- Package usage documentation. -->
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/ndarray-vector
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm`][esm-url] branch (see [README][esm-readme]).
+-   If you are using Deno, visit the [`deno`][deno-url] branch (see [README][deno-readme] for usage intructions).
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd`][umd-url] branch (see [README][umd-readme]).
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+To view installation and usage instructions specific to each branch build, be sure to explicitly navigate to the respective README files on each branch, as linked to above.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
-```
-
-You can also import the following named exports from the package:
-
-```javascript
-import { BooleanVector, Float32Vector, Float64Vector, Int16Vector, Int32Vector, Int8Vector, Uint16Vector, Uint32Vector, Uint8ClampedVector, Uint8Vector, vector } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
+var ns = require( '@stdlib/ndarray-vector' );
 ```
 
 #### ns
@@ -73,6 +85,22 @@ var o = ns;
 The namespace exports the following:
 
 <!-- <toc pattern="*"> -->
+
+<div class="namespace-toc">
+
+-   <span class="signature">[`BooleanVector()`][@stdlib/ndarray/vector/bool]</span><span class="delimiter">: </span><span class="description">create a boolean vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`vector()`][@stdlib/ndarray/vector/ctor]</span><span class="delimiter">: </span><span class="description">create a vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Float32Vector()`][@stdlib/ndarray/vector/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Float64Vector()`][@stdlib/ndarray/vector/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Int16Vector()`][@stdlib/ndarray/vector/int16]</span><span class="delimiter">: </span><span class="description">create a signed 16-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Int32Vector()`][@stdlib/ndarray/vector/int32]</span><span class="delimiter">: </span><span class="description">create a signed 32-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Int8Vector()`][@stdlib/ndarray/vector/int8]</span><span class="delimiter">: </span><span class="description">create a signed 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Uint16Vector()`][@stdlib/ndarray/vector/uint16]</span><span class="delimiter">: </span><span class="description">create an unsigned 16-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Uint32Vector()`][@stdlib/ndarray/vector/uint32]</span><span class="delimiter">: </span><span class="description">create an unsigned 32-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Uint8Vector()`][@stdlib/ndarray/vector/uint8]</span><span class="delimiter">: </span><span class="description">create an unsigned 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Uint8ClampedVector()`][@stdlib/ndarray/vector/uint8c]</span><span class="delimiter">: </span><span class="description">create a clamped unsigned 8-bit integer vector (i.e., a one-dimensional ndarray).</span>
+
+</div>
 
 <!-- </toc> -->
 
@@ -99,8 +127,8 @@ The namespace exports the following:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
+var objectKeys = require( '@stdlib/utils-keys' );
+var ns = require( '@stdlib/ndarray-vector' );
 
 console.log( objectKeys( ns ) );
 ```
@@ -126,7 +154,7 @@ console.log( objectKeys( ns ) );
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
@@ -188,6 +216,32 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/ndarray-vector/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/ndarray-vector/main/LICENSE
+
+<!-- <toc-links> -->
+
+[@stdlib/ndarray/vector/bool]: https://github.com/stdlib-js/ndarray-vector-bool
+
+[@stdlib/ndarray/vector/ctor]: https://github.com/stdlib-js/ndarray-vector-ctor
+
+[@stdlib/ndarray/vector/float32]: https://github.com/stdlib-js/ndarray-vector-float32
+
+[@stdlib/ndarray/vector/float64]: https://github.com/stdlib-js/ndarray-vector-float64
+
+[@stdlib/ndarray/vector/int16]: https://github.com/stdlib-js/ndarray-vector-int16
+
+[@stdlib/ndarray/vector/int32]: https://github.com/stdlib-js/ndarray-vector-int32
+
+[@stdlib/ndarray/vector/int8]: https://github.com/stdlib-js/ndarray-vector-int8
+
+[@stdlib/ndarray/vector/uint16]: https://github.com/stdlib-js/ndarray-vector-uint16
+
+[@stdlib/ndarray/vector/uint32]: https://github.com/stdlib-js/ndarray-vector-uint32
+
+[@stdlib/ndarray/vector/uint8]: https://github.com/stdlib-js/ndarray-vector-uint8
+
+[@stdlib/ndarray/vector/uint8c]: https://github.com/stdlib-js/ndarray-vector-uint8c
+
+<!-- </toc-links> -->
 
 </section>
 
