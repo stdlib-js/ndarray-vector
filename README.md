@@ -89,6 +89,8 @@ The namespace exports the following:
 <div class="namespace-toc">
 
 -   <span class="signature">[`BooleanVector()`][@stdlib/ndarray/vector/bool]</span><span class="delimiter">: </span><span class="description">create a boolean vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Complex128Vector()`][@stdlib/ndarray/vector/complex128]</span><span class="delimiter">: </span><span class="description">create a double-precision complex floating-point vector (i.e., a one-dimensional ndarray).</span>
+-   <span class="signature">[`Complex64Vector()`][@stdlib/ndarray/vector/complex64]</span><span class="delimiter">: </span><span class="description">create a single-precision complex floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="signature">[`vector()`][@stdlib/ndarray/vector/ctor]</span><span class="delimiter">: </span><span class="description">create a vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="signature">[`Float32Vector()`][@stdlib/ndarray/vector/float32]</span><span class="delimiter">: </span><span class="description">create a single-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
 -   <span class="signature">[`Float64Vector()`][@stdlib/ndarray/vector/float64]</span><span class="delimiter">: </span><span class="description">create a double-precision floating-point vector (i.e., a one-dimensional ndarray).</span>
@@ -220,6 +222,10 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 <!-- <toc-links> -->
 
 [@stdlib/ndarray/vector/bool]: https://github.com/stdlib-js/ndarray-vector-bool
+
+[@stdlib/ndarray/vector/complex128]: https://github.com/stdlib-js/ndarray-vector-complex128
+
+[@stdlib/ndarray/vector/complex64]: https://github.com/stdlib-js/ndarray-vector-complex64
 
 [@stdlib/ndarray/vector/ctor]: https://github.com/stdlib-js/ndarray-vector-ctor
 
