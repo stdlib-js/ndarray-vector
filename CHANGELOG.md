@@ -2,14 +2,15 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2025-07-14)
+## 0.1.0 (2026-01-31)
 
 <section class="features">
 
 ### Features
 
+-   [`3590e0f`](https://github.com/stdlib-js/stdlib/commit/3590e0f954650d8129ca31cd2cbf3c6c3cfc097f) - update `ndarray/iter` TypeScript declarations
 -   [`138cc36`](https://github.com/stdlib-js/stdlib/commit/138cc36c180a676fc4ae8b675d77d58db8f02f26) - add `Complex64Vector` to namespace
 -   [`50dac78`](https://github.com/stdlib-js/stdlib/commit/50dac7824c40e9cf5c10b0ee576f44fba8b191a5) - add `ndarray/vector/complex64`
 -   [`0431d21`](https://github.com/stdlib-js/stdlib/commit/0431d211467c0ebfa57547a5da66f598870bbf33) - add `Complex128Vector` to namespace
@@ -38,6 +39,13 @@
 
 <details>
 
+-   [`2ffc422`](https://github.com/stdlib-js/stdlib/commit/2ffc422e0a5e583d45776ea7efc359186379bb0c) - **docs:** fix TSDoc return annotation values and example code _(by Philipp Burckhardt)_
+-   [`5b98eea`](https://github.com/stdlib-js/stdlib/commit/5b98eeaa83f9762c4082b97ba7706fc682685b7c) - **docs:** regenerate TS declarations for `ndarray/vector` namespace _(by Philipp Burckhardt)_
+-   [`dbfa538`](https://github.com/stdlib-js/stdlib/commit/dbfa538b304e97ac92eed25a73418f5f378b33e7) - **docs:** fix example code in TSDoc declaration comments _(by Philipp Burckhardt)_
+-   [`3f7b1ed`](https://github.com/stdlib-js/stdlib/commit/3f7b1ed405cdb77a3357d424f462e8d3b2276df5) - **docs:** fix code in TSDoc examples _(by Philipp Burckhardt)_
+-   [`3590e0f`](https://github.com/stdlib-js/stdlib/commit/3590e0f954650d8129ca31cd2cbf3c6c3cfc097f) - **feat:** update `ndarray/iter` TypeScript declarations _(by Philipp Burckhardt)_
+-   [`da9d08b`](https://github.com/stdlib-js/stdlib/commit/da9d08b99b9662e7421722b5c2af30f6bfb1bbf5) - **docs:** add missing require to TSDoc example code _(by Philipp Burckhardt)_
+-   [`f344466`](https://github.com/stdlib-js/stdlib/commit/f344466c6dcfb8f52d7f3148acaadd52772938da) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`34f6c88`](https://github.com/stdlib-js/stdlib/commit/34f6c88797418bf412b222450bd1659e43b7a7c1) - **docs:** update namespace table of contents [(#7105)](https://github.com/stdlib-js/stdlib/pull/7105) _(by stdlib-bot)_
 -   [`138cc36`](https://github.com/stdlib-js/stdlib/commit/138cc36c180a676fc4ae8b675d77d58db8f02f26) - **feat:** add `Complex64Vector` to namespace _(by Athan Reines)_
 -   [`50dac78`](https://github.com/stdlib-js/stdlib/commit/50dac7824c40e9cf5c10b0ee576f44fba8b191a5) - **feat:** add `ndarray/vector/complex64` _(by Athan Reines)_
@@ -81,9 +89,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
