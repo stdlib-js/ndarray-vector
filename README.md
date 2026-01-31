@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { BooleanVector, Complex128Vector, Complex64Vector, Float32Vector, Float64Vector, Int16Vector, Int32Vector, Int8Vector, Uint16Vector, Uint32Vector, Uint8ClampedVector, Uint8Vector, vector } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
+import { BooleanVector, Complex128Vector, Complex64Vector, Float32Vector, Float64Vector, Int16Vector, Int32Vector, Int8Vector, Uint16Vector, Uint32Vector, Uint8ClampedVector, Uint8Vector, vector } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.0-deno/mod.js';
 ```
 
 #### ns
@@ -118,7 +118,7 @@ The namespace exports the following:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@deno/mod.js';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@deno/mod.js';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.0-deno/mod.js';
 
 console.log( objectKeys( ns ) );
 ```
