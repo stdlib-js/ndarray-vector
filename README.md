@@ -52,13 +52,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.1-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { BooleanVector, Complex128Vector, Complex64Vector, Float32Vector, Float64Vector, Int16Vector, Int32Vector, Int8Vector, Uint16Vector, Uint32Vector, Uint8ClampedVector, Uint8Vector, vector } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@esm/index.mjs';
+import { BooleanVector, Complex128Vector, Complex64Vector, Float32Vector, Float64Vector, Int16Vector, Int32Vector, Int8Vector, Uint16Vector, Uint32Vector, Uint8ClampedVector, Uint8Vector, vector } from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.1-esm/index.mjs';
 ```
 
 #### ns
@@ -123,7 +123,7 @@ The namespace exports the following:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-keys@esm/index.mjs';
-import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@esm/index.mjs';
+import ns from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-vector@v0.1.1-esm/index.mjs';
 
 console.log( objectKeys( ns ) );
 
