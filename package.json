@@ -120,6 +120,8 @@
     "@stdlib/ndarray-dtypes": "^0.4.1",
     "@stdlib/ndarray-every": "^0.1.1",
     "@stdlib/ndarray-map": "^0.1.1",
+    "@stdlib/ndarray-numel": "^0.2.3",
+    "@stdlib/ndarray-order": "^0.2.3",
     "@stdlib/object-assign": "^0.2.3",
     "@stdlib/random-array-bernoulli": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.2",
