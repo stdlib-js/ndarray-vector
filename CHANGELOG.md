@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-21)
+## Unreleased (2026-07-01)
 
 <section class="commits">
 
@@ -12,6 +12,19 @@
 
 <details>
 
+-   [`e9f7554`](https://github.com/stdlib-js/stdlib/commit/e9f75542701aa7535be20b624f35a483b4c6e34d) - **docs:** update related packages sections [(#13187)](https://github.com/stdlib-js/stdlib/pull/13187) _(by stdlib-bot)_
+-   [`1428ba4`](https://github.com/stdlib-js/stdlib/commit/1428ba4e084c92135e0fe4d2568e7180de91731e) - **docs:** update related packages sections [(#13158)](https://github.com/stdlib-js/stdlib/pull/13158) _(by stdlib-bot)_
+-   [`29b2bde`](https://github.com/stdlib-js/stdlib/commit/29b2bded9ac858b970a2866f20000ae39681e602) - **bench:** measure a subset of dtypes _(by Athan Reines)_
+-   [`f021c70`](https://github.com/stdlib-js/stdlib/commit/f021c7064415469b10f226ff7a9bd612786d8eff) - **docs:** update notes _(by Athan Reines)_
+-   [`7a4fa8e`](https://github.com/stdlib-js/stdlib/commit/7a4fa8e8e7031325ae3efdcd6f4d1f427bf1df6b) - **docs:** add notes _(by Athan Reines)_
+-   [`c148ba7`](https://github.com/stdlib-js/stdlib/commit/c148ba73d3d68a71a4b1dc5b358030459fe9388b) - **refactor:** use assertion utilities and add FIXME _(by Athan Reines)_
+-   [`a0740ff`](https://github.com/stdlib-js/stdlib/commit/a0740ff717285ec77bca66efa3133061321184e3) - **docs:** update related packages sections [(#13007)](https://github.com/stdlib-js/stdlib/pull/13007) _(by stdlib-bot)_
+-   [`4b35470`](https://github.com/stdlib-js/stdlib/commit/4b35470b5d827db631a59fba4f848aba4a44110c) - **docs:** update related packages sections [(#12823)](https://github.com/stdlib-js/stdlib/pull/12823) _(by stdlib-bot)_
+-   [`de39564`](https://github.com/stdlib-js/stdlib/commit/de395643f761c77298491ab507475a32ab8402e9) - **docs:** update related packages sections [(#12743)](https://github.com/stdlib-js/stdlib/pull/12743) _(by stdlib-bot)_
+-   [`3116666`](https://github.com/stdlib-js/stdlib/commit/3116666b3e530b2e6fb161924ae4c43cdf02905b) - **docs:** correct TSDoc across `ndarray` TypeScript declarations [(#12635)](https://github.com/stdlib-js/stdlib/pull/12635) _(by Philipp Burckhardt, Athan Reines)_
+-   [`ece1cb0`](https://github.com/stdlib-js/stdlib/commit/ece1cb034f55713dfc2c677e7a8fb091e090f099) - **docs:** update related packages sections [(#12326)](https://github.com/stdlib-js/stdlib/pull/12326) _(by stdlib-bot)_
+-   [`f42a835`](https://github.com/stdlib-js/stdlib/commit/f42a835a111bc9a78805bbe096bb6c90a182ea6c) - **docs:** update related packages sections [(#12293)](https://github.com/stdlib-js/stdlib/pull/12293) _(by stdlib-bot)_
+-   [`008cf16`](https://github.com/stdlib-js/stdlib/commit/008cf164e7790c1e318752b409b86100d91e1f69) - **docs:** update related packages sections [(#12223)](https://github.com/stdlib-js/stdlib/pull/12223) _(by stdlib-bot)_
 -   [`adb3e6a`](https://github.com/stdlib-js/stdlib/commit/adb3e6a9b5487a06a6f3c18e8d37650443248804) - **test:** use accessor functions _(by Athan Reines)_
 -   [`1e7acc6`](https://github.com/stdlib-js/stdlib/commit/1e7acc6e50e0cf193de415fcb4d864755757aa99) - **test:** use accessor functions _(by Athan Reines)_
 -   [`b2eb5da`](https://github.com/stdlib-js/stdlib/commit/b2eb5da5b94858e0d40f62ebe33ef5f52d398acc) - **docs:** update related packages sections [(#12164)](https://github.com/stdlib-js/stdlib/pull/12164) _(by stdlib-bot)_
@@ -32,11 +45,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
 -   Partha Das
+-   Philipp Burckhardt
 
 </section>
 
