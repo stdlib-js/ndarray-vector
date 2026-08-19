@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-01)
+## Unreleased (2026-08-19)
 
 <section class="commits">
 
@@ -12,6 +12,10 @@
 
 <details>
 
+-   [`40156b8`](https://github.com/stdlib-js/stdlib/commit/40156b8c1f21cea5031108711ab00dfcaee4508c) - **docs:** update related packages sections [(#14038)](https://github.com/stdlib-js/stdlib/pull/14038) _(by stdlib-bot)_
+-   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
+-   [`bce3f55`](https://github.com/stdlib-js/stdlib/commit/bce3f55d4c882af77d2401d8622d818369421c39) - **docs:** update related packages sections [(#13313)](https://github.com/stdlib-js/stdlib/pull/13313) _(by stdlib-bot)_
+-   [`a12fce1`](https://github.com/stdlib-js/stdlib/commit/a12fce1cd6bd65c7aee8a2aee997200f71c83a62) - **docs:** update related packages sections [(#13276)](https://github.com/stdlib-js/stdlib/pull/13276) _(by stdlib-bot)_
 -   [`e9f7554`](https://github.com/stdlib-js/stdlib/commit/e9f75542701aa7535be20b624f35a483b4c6e34d) - **docs:** update related packages sections [(#13187)](https://github.com/stdlib-js/stdlib/pull/13187) _(by stdlib-bot)_
 -   [`1428ba4`](https://github.com/stdlib-js/stdlib/commit/1428ba4e084c92135e0fe4d2568e7180de91731e) - **docs:** update related packages sections [(#13158)](https://github.com/stdlib-js/stdlib/pull/13158) _(by stdlib-bot)_
 -   [`29b2bde`](https://github.com/stdlib-js/stdlib/commit/29b2bded9ac858b970a2866f20000ae39681e602) - **bench:** measure a subset of dtypes _(by Athan Reines)_
