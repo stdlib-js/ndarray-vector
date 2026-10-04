@@ -105,7 +105,7 @@
     "@stdlib/complex-float64-ctor": "^0.1.2",
     "@stdlib/complex-float64-imag": "^0.1.2",
     "@stdlib/complex-float64-real": "^0.1.2",
-    "@stdlib/console-log-each-map": "^0.1.1",
+    "@stdlib/console-log-each-map": "^0.1.2",
     "@stdlib/math-base-special-pow": "^0.3.1",
     "@stdlib/ndarray-base-assert-is-binary-data-type": "github:stdlib-js/ndarray-base-assert-is-binary-data-type#main",
     "@stdlib/ndarray-base-assert-is-data-type": "^0.2.3",
