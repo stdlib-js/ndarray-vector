@@ -4,7 +4,18 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-04)
+## Unreleased (2026-11-04)
+
+<section class="features">
+
+### Features
+
+-   [`306998e`](https://github.com/stdlib-js/stdlib/commit/306998e8acf2c85c48b8277771f35bac438fc8b8) - add `GenericVector` to namespace
+-   [`d7bef11`](https://github.com/stdlib-js/stdlib/commit/d7bef113249f11e582a5282f9ce2402129391229) - add `ndarray/vector/generic`
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +23,10 @@
 
 <details>
 
+-   [`306998e`](https://github.com/stdlib-js/stdlib/commit/306998e8acf2c85c48b8277771f35bac438fc8b8) - **feat:** add `GenericVector` to namespace _(by Athan Reines)_
+-   [`df6a746`](https://github.com/stdlib-js/stdlib/commit/df6a74632f48f3b94ccef066c3a681afd135e55e) - **style:** remove unused lint rule _(by Athan Reines)_
+-   [`d7bef11`](https://github.com/stdlib-js/stdlib/commit/d7bef113249f11e582a5282f9ce2402129391229) - **feat:** add `ndarray/vector/generic` _(by Athan Reines)_
+-   [`af38320`](https://github.com/stdlib-js/stdlib/commit/af38320f6f68ac48ee6232ef5cdc71382c582605) - **refactor:** use external utility _(by Athan Reines)_
 -   [`40156b8`](https://github.com/stdlib-js/stdlib/commit/40156b8c1f21cea5031108711ab00dfcaee4508c) - **docs:** update related packages sections [(#14038)](https://github.com/stdlib-js/stdlib/pull/14038) _(by stdlib-bot)_
 -   [`b18a134`](https://github.com/stdlib-js/stdlib/commit/b18a134a47895fc3e56018929222d356d3ef10c2) - **docs:** update related packages sections [(#13397)](https://github.com/stdlib-js/stdlib/pull/13397) _(by stdlib-bot)_
 -   [`bce3f55`](https://github.com/stdlib-js/stdlib/commit/bce3f55d4c882af77d2401d8622d818369421c39) - **docs:** update related packages sections [(#13313)](https://github.com/stdlib-js/stdlib/pull/13313) _(by stdlib-bot)_
