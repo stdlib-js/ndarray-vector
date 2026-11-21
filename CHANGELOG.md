@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-06)
+## Unreleased (2026-11-21)
 
 <section class="features">
 
@@ -24,6 +24,11 @@
 
 <details>
 
+-   [`54bdd06`](https://github.com/stdlib-js/stdlib/commit/54bdd06c4ea2c4ff401cbfa40ca953d13ebb8184) - **docs:** update related packages sections [(#16699)](https://github.com/stdlib-js/stdlib/pull/16699) _(by stdlib-bot)_
+-   [`f873e68`](https://github.com/stdlib-js/stdlib/commit/f873e681e61566c217b927df4f17eac64e0e5108) - **docs:** update related packages sections [(#16681)](https://github.com/stdlib-js/stdlib/pull/16681) _(by stdlib-bot)_
+-   [`22880c8`](https://github.com/stdlib-js/stdlib/commit/22880c8d011ac4501b5865f7e585ce90edca397c) - **docs:** update related packages sections [(#16603)](https://github.com/stdlib-js/stdlib/pull/16603) _(by stdlib-bot)_
+-   [`a5ddb0f`](https://github.com/stdlib-js/stdlib/commit/a5ddb0f1f03b1d4f071106e42e32ed1bdb879e9e) - **bench:** fix descriptions _(by Athan Reines)_
+-   [`69bd527`](https://github.com/stdlib-js/stdlib/commit/69bd5273f5c84a6a383262289bb30c63038f7b4d) - **docs:** add missing option _(by Athan Reines)_
 -   [`9b0a318`](https://github.com/stdlib-js/stdlib/commit/9b0a318e484a1db9cb78380ac8fc823a2865e3ae) - **docs:** remove non-applicable buffer parameters [(#16489)](https://github.com/stdlib-js/stdlib/pull/16489) _(by Philipp Burckhardt)_
 -   [`dc28a63`](https://github.com/stdlib-js/stdlib/commit/dc28a63a1295e33f138bafa3cf41f30168ddd198) - **feat:** update `ndarray/vector` TypeScript declarations [(#16484)](https://github.com/stdlib-js/stdlib/pull/16484) _(by stdlib-bot)_
 -   [`bb0fd7d`](https://github.com/stdlib-js/stdlib/commit/bb0fd7d3307c311d40a1707b7719a4c5234d5800) - **docs:** update namespace table of contents [(#16485)](https://github.com/stdlib-js/stdlib/pull/16485) _(by stdlib-bot)_
